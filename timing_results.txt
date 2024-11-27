@@ -1,0 +1,5 @@
+Bubble Sort: 177.223613 secunde (medie)
+Selection Sort: 64.123577 secunde (medie)
+Insertion Sort: 72.820150 secunde (medie)
+Merge Sort: 0.137028 secunde (medie)
+Quick Sort: 0.098974 secunde (medie)
